@@ -1,0 +1,12 @@
+services/api/__pycache__
+services/web-app/node_modules
+services/api/gmm_final.pth
+services/api/pose_iter_440000.caffemodel
+services/api/tom_final.pth
+services/api/exp-schp-201908261155-lip.pth
+services/api/output/second/TOM/val/*
+!services/api/output/second/TOM/val/.gitkeep 
+services/api/Database/val/person/*
+!services/api/Database/val/person/000249_0.jpg 
+services/api/chatbot/__pycache__
+services/api/recommender/__pycache__
