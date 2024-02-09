@@ -22,11 +22,13 @@ Shopping Assistant is a chatbot, which can assist consumers in deciding the righ
 
 ## Initial steps
 
-Clone the repository by using the below command:
+1. Clone the repository by using the below command:
 
 ```
 git clone https://github.com/VaibhavIITJ/shopping-assistant
-``` 
+```
+
+2. Download the 4 model files from [here](https://drive.google.com/drive/folders/1yPR3PARVtIf1N9UER_c6aNCaWmbiGcIf?usp=sharing) and copy them all to the directory `shopping-assistant/services/api/`. Please note that if you download the `model_files` folder in .zip format, then you need to extract all the files out of it and then copy them to the above directory.
 
 ## Method I (Using docker) [Recommended]
 ### Pre-requisites
